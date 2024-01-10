@@ -1,4 +1,5 @@
 # app-receitas
+Esse projeto já vem com Node, TypeScript, Express, JWT, Bcrypt, MySQL e Sequelize instalados e com a configuração do Sequelize pronta! Mesmo assim, é recomendado que você dê uma olhada no arquivo package.json.
 Trybeteca API
 App para gestão de bibliotecas desenvolvidas no conteúdo do dia 10.1.
 
